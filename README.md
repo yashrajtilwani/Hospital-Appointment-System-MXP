@@ -2,7 +2,6 @@
 
 This project is a **Hospital Appointment System** built using the **MERN stack** (MongoDB, Express, React, Node.js). It provides an API for user registration, authentication, and managing appointments between doctors and patients.
 
----
 
 ## 🚀 Technologies Used
 
@@ -10,7 +9,9 @@ This project is a **Hospital Appointment System** built using the **MERN stack**
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 
----
+## 📋 Task
+
+![Preview](https://live.staticflickr.com/65535/54535508338_47f0f9ccbd_b.jpg)
 
 ## 📌 Features
 
